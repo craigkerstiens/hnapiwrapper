@@ -1,0 +1,6 @@
+Flask==0.8
+Jinja2==2.6
+Werkzeug==0.8.1
+requests==0.7.5
+simplejson==2.2.1
+wsgiref==0.1.2
